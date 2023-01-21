@@ -1,0 +1,3 @@
+[submodule "e-python-in-docker"]
+	path = e-python-in-docker
+	url = ./e-python-in-docker
